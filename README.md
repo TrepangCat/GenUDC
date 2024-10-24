@@ -2,7 +2,7 @@
 
 ### GenUDC: High Quality 3D Mesh Generation with Unsigned Dual Contouring Representation
 
-I will update this code at the end of 2024 when I am not so busy. If you really want this code, you can email email to get the BETA version.
+I will update this code at the end of 2024 when I am not so busy. If you really want this code, you can email me to get the BETA version.
 
 ## Contact
 Besides the email address in the paper, feel free to email **772438854@qq.com**.
